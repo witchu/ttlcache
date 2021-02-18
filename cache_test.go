@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"sync"
 
-	. "github.com/ReneKroon/ttlcache/v2"
 	"github.com/stretchr/testify/assert"
+	. "github.com/witchu/ttlcache/v2"
 )
 
 func TestMain(m *testing.M) {
